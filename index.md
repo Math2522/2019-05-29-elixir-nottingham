@@ -59,7 +59,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2>Registration:</h2>
 
 
-<p> Deadline for application is <strong>the 20th of May, 2019</strong>. Chosen participants will be notified by <strong>the 21th of May, 2019</strong> at the latest.</p> 
+<p> Deadline for application is <strong>the 20th of May, 2019</strong>. Chosen participants will be notified by <strong>the 21th of May, 2019</strong> at the latest</p> 
 
 <p>There are <strong>25 seats</strong> available. Participants on a first come first served basis. You can register by using the link below.</p>
 
